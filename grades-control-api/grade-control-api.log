@@ -1,0 +1,2 @@
+2021-04-01T17:25:51.095Z [grade-control-api] info: GET /totalGrade/:student/:subject - 45
+2021-04-01T20:36:53.125Z [grade-control-api] info: GET /grade
